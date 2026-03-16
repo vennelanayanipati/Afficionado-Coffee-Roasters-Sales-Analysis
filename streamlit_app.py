@@ -11,7 +11,7 @@ st.set_page_config(page_title="Sales Trend and Time-Based Performance Analysis f
 @st.cache_data
 def load_data():
 
-    df = pd.read_csv("Coffee Sales Analysis")
+    df = pd.read_csv("Afficionado Coffee Roasters Final Project.csv")
     return df
 
 st.title("🤎☕ Sales Trend and Time-Based Performance Analysis for Afficionado Coffee Roasters")
