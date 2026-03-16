@@ -28,7 +28,7 @@ st.sidebar.markdown(
 
 # ---- SIDEBAR HEADER ----
 st.sidebar.image(
-    r"C:\Users\venne\Downloads\PDI-Design-Coffee-Afficionado.jpg",   
+    "PDI-Design-Coffee-Afficionado.jpg",   
     width=500
 )
 
